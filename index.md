@@ -4,7 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[mcp](./another-page.html).
+
+[golang并发-学习笔记](./first.html).
 
 There should be whitespace between paragraphs.
 
